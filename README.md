@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there👋. I am Haigaz.
+ I am a computer science student and junior react js developer. Currently working on react js projects amd learning building rest api using Nest js. 
 
 <!--
 **haigaz15/haigaz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haigaz15&count_private=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haigaz15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
