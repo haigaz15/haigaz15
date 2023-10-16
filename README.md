@@ -1,5 +1,5 @@
 ### Hi there👋. I am Haigaz.
- I am a computer science student and junior react js developer. Currently working on react js projects and learning building rest api using Nest js. 
+ I am a software developer at Emids/Macadamian and a computer science graduate from American University of Armenia.
 
 <!--
 **haigaz15/haigaz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
