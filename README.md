@@ -1,5 +1,5 @@
 ### Hi there👋. I am Haigaz.
- I am a Software Developer at Emids/Macadamian and a Computer Science graduate from the American University of Armenia.
+ I am a Software Developer and a Computer Science graduate from the American University of Armenia.
 
 <!--
 **haigaz15/haigaz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
